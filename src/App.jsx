@@ -43,6 +43,12 @@ const App = () => {
     <h1>Hello world!</h1>
   );
 }
+<>
+  <h1>Local Weather</h1>
+  <section>
+    // Weather data here
+  </section>
+</>
 
 export default App
 
